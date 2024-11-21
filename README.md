@@ -1,2 +1,2 @@
-# JavaScript-Programming-
+# JavaScriptProgramming
 A normal Js programming 
